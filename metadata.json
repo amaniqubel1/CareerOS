@@ -1,0 +1,6 @@
+{
+  "name": "CareerOS — AI Career Copilot for B.Tech",
+  "description": "The operating system for career growth. An agentic AI copilot guiding engineering students through skills, proof-of-work projects, and 4-year career readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
